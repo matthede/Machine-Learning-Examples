@@ -1,7 +1,7 @@
 # Machine-Learning-Examples
 Machine Learning Use Cases
 
-This repository contains machine learning use cases for fun and that can be viewed as examples by students or friends.
+This repository contains machine learning use cases for fun and that can be viewed as examples by students or friends.  Most of these were done close to two years ago and sadly some of the data is missing (see example 4, I put it up though as a reference if I need to use some Seaborn code on the fly)
 
 1. GooglePlayStore
 
